@@ -1,0 +1,1 @@
+The program can be compiled using make command. The camera can be switched using c. The bike can be moved using the arrow keys. If the bike hits water, it will stop. The timer is set for two minutes.
